@@ -1,0 +1,38 @@
+body {
+    background-image: url('http://3.bp.blogspot.com/-tUx7dL7mPuU/Vs9yRJX7ntI/AAAAAAAAqTY/Sg2w3fEMlmg/s800/tired-minion-coffee-lover-minion-iphone-6-plus-wallpaper-hd.jpg');
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh; 
+  }
+  
+  .menu{
+    background-color: white;  
+    align-content: left;
+  }
+  .menu li {
+    list-style: none;
+    align-items: top;
+  }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  a:hover{
+    background: red;
+    text-decoration: underline;  
+  }
+  
+  .site-subtitle,
+  .site-title{
+    text-align: center;
+    color: whitesmoke;
+  }
+  
+  .site-subtitle{
+    font-style: italic; 
+  }
